@@ -36,9 +36,9 @@ Simply scroll down the list in the app. As you reach the specified scroll thresh
 Contributions to enhance this example app are welcome. Please follow these steps:
 
 ## Fork the repository.
-Create your feature branch (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
+Create your feature branch (**git checkout -b feature/AmazingFeature**).
+Commit your changes (**git commit -m 'Add some AmazingFeature'**).
+Push to the branch (**git push origin feature/AmazingFeature**).
 Open a Pull Request.
 ## License
 Distributed under the MIT License. 
